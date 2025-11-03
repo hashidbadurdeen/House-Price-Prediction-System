@@ -1,0 +1,59 @@
+LotArea: Lot size in square feet
+
+Street: Type of road access to property
+
+       0 - Gravel
+       1 - Paved
+
+OverallQual: Rates the overall material and finish of the house
+
+       10	Very Excellent
+       9	Excellent
+       8	Very Good
+       7	Good
+       6	Above Average
+       5	Average
+       4	Below Average
+       3	Fair
+       2	Poor
+       1	Very Poor
+
+BldgType: Type of dwelling
+		
+	0	1Fam	
+	1	2fmCon	
+	2	Duplex	
+	3	Twnhs
+	4	TwnhsE	
+
+OverallCond: Rates the overall condition of the house
+
+       10	Very Excellent
+       9	Excellent
+       8	Very Good
+       7	Good
+       6	Above Average	
+       5	Average
+       4	Below Average	
+       3	Fair
+       2	Poor
+       1	Very Poor
+
+YearBuilt: Original construction date
+
+YearRemodAdd: Remodel date (same as construction date if no remodeling or additions)
+
+CentralAir: 
+
+      0- N	No
+      1- Y	Yes
+
+MoSold: Month Sold (MM)
+
+YrSold: Year Sold (YYYY)
+
+
+
+
+
+
